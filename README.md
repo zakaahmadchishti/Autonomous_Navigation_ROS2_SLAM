@@ -1,8 +1,5 @@
 # Autonomous Navigation Theory and Application Using SLAM with ROS 2
 
-**Authors:**  
-- Zaka Ahmed, Master of Engineering (Information Technology), Frankfurt University of Applied Sciences  
-- Muhammad Haris, Master of Engineering (Information Technology), Frankfurt University of Applied Sciences  
 
 ---
 
